@@ -55,7 +55,7 @@
 
 ![halls_gallery_zoom](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/halls3.png)
 
-4. Dinnig Tables
+4. Dining Tables
 
 ![dine_coverpage](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/dine1.png)
 
