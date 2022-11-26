@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Login</title>
+	<!-- Meta-Tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+
+    <script>
+        addEventListener("load", function() 
+			{ 
+			   setTimeout(hideURLbar, 0);
+		     }, false); 
+
+		 function hideURLbar()
+			{
+			    window.scrollTo(0,1); 
+			} 
+    </script>
+    
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- Online-fonts -->
+	<link href="//fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext,vietnamese" rel="stylesheet">
+</head>
+
+<body>
+	<div class="main">
+		<div class="main-w3l">
+			<h1 class="logo-w3">Login</h1>
+			    <div class="w3layouts-main">
+					<form name="Login" onsubmit="return validate()" action="login.php" method="post"><br/>
+                        <div style="color: white; text-align: left;"><b>Enter your email:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="register.html"><italic>Dont have an account?</italic></a> <br/><br/>
+                        <input type="text" name="Email" placeholder="Email" autocomplete="off" /></div><br/><br/>
+    
+                        <div style="color: white; text-align: left;"><b>Enter your password:</b><br/><br/>
+                        <input type="password"  name="Password" class="padding" placeholder="Password" autocomplete="off"/></div><br/><br/>
+		<!-- use autocomplete="off" at each textbox-->
+						<input type="submit" name="Submit" >
+					</form>
+
+			    </div>
+		    </div>
+	    </div>	
+	<script>
+
+			function validate() 
+				{
+					// id validations
+                    if((document.register.Email_id.value.trim())=="")
+					{
+						alert("Please Provide Your Email Id");
+						document.register.Email_id.focus();
+						return false;
+					}
+					else if((document.register.Email_id.value.trim()).length<10 || (document.register.Locality.value.trim()).length>25)
+					{
+						alert("Provide correct Email_id");
+						document.register.Email_id.focus();
+						return false;
+					}
+
+					
+					//password validations
+					else if((document.login.Password.value.trim())=="")
+					{
+						alert("Password Is required");
+						document.login.Password.focus();
+						return false;
+					}
+					else if((document.login.Password.value.trim()).length<8)
+					{
+						alert("Password Must contain atleast 8 values");
+						document.login.Password.focus();
+						return false;
+					}
+					else if((document.login.Password.value.trim()).length>15)
+					{
+						alert("Password Must not be too long");
+						document.login.Password.focus();
+						return false;
+					}
+					
+					
+				}
+
+				
+		</script>
+	
+
+		
+</body>
+</html>
