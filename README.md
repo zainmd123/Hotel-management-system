@@ -36,44 +36,44 @@
 
 1. Homepage
 
-![Website_hotelname](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/homepage1.png)
+![Website_hotelname](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/homepage1.png)
 
-![Website_rooms](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/homepage2.png)
+![Website_rooms](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/homepage2.png)
 
-![Website_halls](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/homepage3.png)
+![Website_halls](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/homepage3.png)
 
 
 2. Rooms
 
-![rooms](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/rooms1.png)
+![rooms](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/rooms1.png)
 
 3. Event Halls
 
-![halls](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/halls1.png)
+![halls](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/halls1.png)
 
-![halls_gallery](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/halls2.png)
+![halls_gallery](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/halls2.png)
 
-![halls_gallery_zoom](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/halls3.png)
+![halls_gallery_zoom](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/halls3.png)
 
 4. Dinnig Tables
 
-![dine_coverpage](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/dine1.png)
+![dine_coverpage](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/dine1.png)
 
-![dine](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/dine2.png)
+![dine](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/dine2.png)
 
 5. Facilities Provided
 
-![facilities1](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/facilities1.png)
+![facilities1](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/facilities1.png)
 
-![facilities2](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/facilities2.png)
+![facilities2](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/facilities2.png)
 
 6. Tourist Places Nearby
 
-![tourist1](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/tourist_places1.png)
+![tourist1](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/tourist_places1.png)
 
-![tourist2](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/tourist_places2.png)
+![tourist2](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/tourist_places2.png)
 
-![tourist3](https://github.com/zainmd123/Group-10-SE-Project/blob/main/readmeImages/tourist_places3.png)
+![tourist3](https://github.com/zainmd123/Hotel-management-system/blob/main/readmeImages/tourist_places3.png)
 
 
 ### Thank You!
